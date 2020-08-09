@@ -1,6 +1,6 @@
 # NY-Citi-Bike-Analytics---Tableau-Project
 
-Used Tableau to aggregate, model, analyze, and visualize the data of the largest bike sharing program in the United States. 
+Used Tableau to aggregate, model, analyze, and visualize the data of the largest bike-sharing program in the United States. 
 
 **Metadata:**
 
