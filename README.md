@@ -12,4 +12,3 @@ Generated a Tableau story that brings together the visualizations, maps, and ins
 
 *[Click here](https://public.tableau.com/profile/ruozhuo.wang#!/vizhome/Homework_week20_RuozhuoWang/Story1?publish=yes)* to view the dashboards presenting all visualizations and insights on Tableau Public.
 
-https://public.tableau.com/profile/ruozhuo.wang#!/vizhome/Homework_week20_RuozhuoWang/Story1?publish=yes
